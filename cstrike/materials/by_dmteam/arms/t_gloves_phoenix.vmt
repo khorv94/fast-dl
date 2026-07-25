@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+"$basetexture"			                        "by_dmteam\arms\t_gloves_phoenix_tx"
+"$basealphaenvmapmask"                          "1"
+"$phong"                                        "1"
+"$phongboost"                                   "24"
+"$phongexponent"                                "8"
+"$phongfresnelranges"                           "[1 1 1]"
+"$phongexponenttexture" 	                    "by_dmteam\arms\ex"
+"$phongalbedotint"		                        "1" 
+"$phongalbedoboost" 	                        "1"
+}

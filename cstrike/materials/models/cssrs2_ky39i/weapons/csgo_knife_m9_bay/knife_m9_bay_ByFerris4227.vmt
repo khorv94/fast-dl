@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+"$basetexture"	"models\cssrs2_ky39i\weapons\csgo_knife_m9_bay\tx"
+	"$phongexponenttexture"                         "models\cssrs2_ky39i\weapons\csgo_knife_m9_bay\exp"
+	"$bumpmap"                                      "models\cssrs2_ky39i\weapons\csgo_knife_m9_bay\normal"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "6.5"
+	"$phongalbedoboost" "1"
+	"$phongfresnelranges" "[1 1 1]" 
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+}

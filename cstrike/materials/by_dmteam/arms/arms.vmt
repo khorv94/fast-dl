@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+"$baseTexture" 				"by_dmteam\arms\arms"
+"$bumpmap"                  "by_dmteam\arms\arms_nr"
+"$normalmapalphaphongmask" "1" 
+"$phong" "1"
+"$phongboost" ".154" 
+"$phongexponent" "13.089"
+"$phogalbedoboost" "1"
+"$phongalbedotint" "1" 
+"$phongfresnelranges" "[.83 .83 .1]" 
+}
